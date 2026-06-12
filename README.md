@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=rkhplace&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# @rkhplace
+# @aryarakasyahputra
 
 Information Systems student and front-end developer focused on building responsive, accessible, and maintainable web applications.
 
