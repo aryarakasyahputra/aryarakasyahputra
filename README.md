@@ -22,11 +22,11 @@
 <table>
   <tr>
     <td width="52%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryarakasyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aryarakasyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryarakasyahputra&layout=compact&theme=algolia" alt="Most used languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryarakasyahputra&layout=compact&theme=algolia" alt="Most used languages" width="100%" />
       <br><br>
-      <img src="https://streak-stats.demolab.com?user=aryarakasyahputra&theme=algolia&hide_border=false&border_radius=6" alt="GitHub streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryarakasyahputra&theme=algolia&hide_border=false&border_radius=6" alt="GitHub streak" width="100%" />
       <br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryarakasyahputra&theme=github_dark" alt="GitHub profile summary" width="100%" />
     </td>
