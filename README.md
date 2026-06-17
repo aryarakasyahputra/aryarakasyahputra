@@ -1,26 +1,32 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rkhplace&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aryarakasyahputra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# @aryarakasyahputra
+# Hi there, I'm Arya Syahputra 👋
 
 Information Systems student and front-end developer focused on building responsive, accessible, and maintainable web applications.
 
-[![Instagram](https://www.instagram.com/arya_rakaaa?igsh=bW5pY3Bwc2UzNDdz&utm_source=qr)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rkhap/](https://www.linkedin.com/in/arya-syahputra-020600415/))
-
+<p align="left">
+  <a href="https://www.instagram.com/arya_rakaaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/arya-syahputra-020600415/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 <table>
   <tr>
     <td width="52%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rkhplace&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aryarakasyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rkhplace&layout=compact&theme=algolia" alt="Most used languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryarakasyahputra&layout=compact&theme=algolia" alt="Most used languages" width="100%" />
     </td>
     <td width="48%" valign="top">
-      <h2>Tech stack</h2>
+      <h2>Tech Stack</h2>
+
       <h3>Languages</h3>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -28,13 +34,15 @@ Information Systems student and front-end developer focused on building responsi
         <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
         <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
       </p>
+
       <h3>Frontend</h3>
       <p>
         <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
       </p>
-      <h3>Backend and tools</h3>
+
+      <h3>Backend & Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
         <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
@@ -45,12 +53,22 @@ Information Systems student and front-end developer focused on building responsi
   </tr>
 </table>
 
-## Contribution snake
+## Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rkhplace/rkhplace/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rkhplace/rkhplace/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/rkhplace/rkhplace/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aryarakasyahputra/aryarakasyahputra/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aryarakasyahputra/aryarakasyahputra/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/aryarakasyahputra/aryarakasyahputra/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
   </picture>
 </p>
